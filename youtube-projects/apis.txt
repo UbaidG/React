@@ -1,11 +1,3 @@
-featured :
+omdb api key = 28c258db
 
-
-
-images:
-
-
-
-search:
-
-
+http://www.omdbapi.com/?i=tt3896198&apikey=28c258db

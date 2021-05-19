@@ -3,7 +3,12 @@
 }
 
 body {
-  background-color: aqua;
-  color: black;
   margin: 0;
+  background: #141414;
+  color: #ffffff;
+}
+
+.movie-app > .row {
+  overflow-x: auto;
+  flex-wrap: nowrap;
 }
